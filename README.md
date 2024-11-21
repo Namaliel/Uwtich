@@ -1,3 +1,3 @@
 # Uwtich
-Web design and video streaming exercise made on typescript, javascript and whatever else i get my hands on
+Web design and video streaming project made on typescript, javascript and whatever else I get my hands on
 
